@@ -10,3 +10,5 @@ def ma(num):
     return num**3
 
 print(ma(2)+70)
+
+print("I just made some changes in the git webpages")
